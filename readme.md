@@ -27,3 +27,5 @@ Copy keys for install Jenkins
 ```
 cat /var/jenkins_home/secrets/initialAdminPassword
 ```
+
+For my Friend https://github.com/richard1403
